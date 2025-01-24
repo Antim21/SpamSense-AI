@@ -21,3 +21,25 @@ pandas
 numpy
 matplotlib
 seaborn
+
+
+# How It Works
+
+**Data Preprocessing:**
+
+Removal of special characters, stopwords, and unwanted symbols.
+Conversion of text into numerical features using techniques like TF-IDF or Bag of Words.
+
+**Model Training:**
+
+Multiple models are trained on the processed data to classify emails into Spam or Not Spam categories.
+
+**Evaluation:**
+
+Models are evaluated using metrics and confusion matrix for performance analysis.
+
+**Visualization:**
+
+Insights are visualized with charts to show data distribution, feature importance, and model accuracy.
+
+
