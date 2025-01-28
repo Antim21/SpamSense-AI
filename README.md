@@ -9,7 +9,7 @@ Preprocessing of raw email data (e.g., cleaning, tokenization, and vectorization
 Implementation of multiple classification algorithms like Naive Bayes, Logistic Regression, or SVM.
 Performance evaluation using metrics like accuracy, precision, recall, and F1-score.
 Visualization of results through plots and charts for better understanding.
-
+   
 **Tech Stack**
  
 Python
