@@ -11,7 +11,7 @@ Performance evaluation using metrics like accuracy, precision, recall, and F1-sc
 Visualization of results through plots and charts for better understanding. 
      
 **Tech Stack**
-      
+        
 Python  
 Jupyter Notebook
    
