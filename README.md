@@ -10,7 +10,7 @@ Implementation of multiple classification algorithms like Naive Bayes, Logistic 
 Performance evaluation using metrics like accuracy, precision, recall, and F1-score.
 Visualization of results through plots and charts for better understanding. 
      
-**Tech Stack** 
+**Tech Stack**  
            
 Python  
 Jupyter Notebook
