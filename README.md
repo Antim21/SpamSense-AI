@@ -13,7 +13,7 @@ Visualization of results through plots and charts for better understanding.
 **Tech Stack**  
            
 Python  
-Jupyter Notebook
+Jupyter Notebook 
     
 Libraries Used:
 
